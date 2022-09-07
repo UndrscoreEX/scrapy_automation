@@ -8,3 +8,9 @@ How to run:
 3) cd to <project name> and run "scrapy genspider ______" (can create multiple spiders if needed)
 4) cd ..
 5) run Auto.py
+
+Modules Used:
+os
+posixpath
+shutil
+subprocess
